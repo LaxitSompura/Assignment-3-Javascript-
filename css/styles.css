@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://imgs.search.brave.com/FGDhQOT5YzWrWPQpFpLBk6JVPKThOQ-HOE6SIacZc6w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzY4Lzhk/L2ZjLzY4OGRmY2Vh/ZjVmZTUzNTYzZTI4/ZDIyYmM4MzVhZjhi/LmpwZw);
+}
+
+
+.container {
+    background-color: rgb(254, 239, 75);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid #000000;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: none;
+    background-color: #00d0ff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #008cff;
+}
+
+#order-summary {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
